@@ -1,0 +1,7 @@
+name: Ffa
+version: ${project.version}
+main: ga.polards.ffa.Ffa
+api-version: 1.16
+prefix: [ FFA - Polar ]
+authors: [ Polar ]
+description: simple ffa in openjdk 8 test polar
